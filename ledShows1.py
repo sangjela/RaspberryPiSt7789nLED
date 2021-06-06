@@ -1,4 +1,4 @@
-#GPIO n LED show
+#GPIO multi LED shows PWM way softly
 import RPi.GPIO as GPIO
 from time import sleep
 

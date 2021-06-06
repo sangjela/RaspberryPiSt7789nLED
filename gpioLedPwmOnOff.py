@@ -1,4 +1,4 @@
-#GPIO #12 (PWM0) LED ON/OFF
+#GPIO #12 (PWM0) LED ON/OFF slowly
 import RPi.GPIO as GPIO
 from time import sleep
 

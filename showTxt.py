@@ -29,7 +29,7 @@ draw = ImageDraw.Draw(image)
 draw.text((0, 0), "일본백수", font=FONT_NOTO, fill=COLOR_ORANGE)
 draw.text((48, 48), "이제부터", font=FONT_NOTO, fill=COLOR_ORANGE)
 draw.text((0, 96), "뭐먹고사나", font=FONT_NOTO, fill=COLOR_ORANGE)
-draw.text((0, 160), "내인생은어디로간다냐~", font=FONT_NOTO_SMALL, fill=COLOR_GREEN)
+draw.text((0, 160), "Where to go my Life~", font=FONT_NOTO_SMALL, fill=COLOR_GREEN)
 draw.text((0, 200), "abcedfghijklmnopqr", font=FONT_ROBOTO, fill=COLOR_LIGHT_BLUE)
 
 
