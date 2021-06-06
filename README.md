@@ -18,3 +18,7 @@
 ### .py list
 * imageShow.py show image. default is knight rider car
 * ledShows1.py 8 LED softly on/off slowly stream
+
+### if vscode run on Raspberry pi Git extention when push, request keyring, you can refer this.
+* https://askubuntu.com/questions/1256345/cant-connect-to-github-with-vs-code --> sudo apt install gnome-keyring
+* you can set keyring password
