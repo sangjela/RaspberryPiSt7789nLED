@@ -12,7 +12,7 @@
 % git push -u origin main  
 ```
 
-## ● if run main, normaly show this way...
+## ● if run some .py, normaly you can see this way...
 * https://youtu.be/GG_GYbkBK88 
 
 ### .py list
