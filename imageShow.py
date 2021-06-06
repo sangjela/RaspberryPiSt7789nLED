@@ -29,7 +29,7 @@ sleep(5)
 #disp._init()
 
 # Open image file
-image = Image.open("utaha_240.jpg")
+#image = Image.open("utaha_240.jpg")
 
 # Show it on display
 disp.display(image)
