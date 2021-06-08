@@ -15,12 +15,13 @@
 ## ● if run some .py, normaly you can see this way...
 * https://youtu.be/GG_GYbkBK88 
 
-### .py list
+### .py .jpg list
 * imageShow.py show image. default is knight rider car
 * ledShows1.py 8 LED softly on/off slowly stream
+* imageShow320.py waveshare 240x320 lcd image show. some st7789 driver problem exist. if want fix, see comment in source/
+* 2inch240x320and1.3inch240x240.jpg success screen shot for 240x240 and 240x320 image output
 
 ### if vscode run on Raspberry pi Git extention when push, request keyring, you can refer this.
 * https://askubuntu.com/questions/1256345/cant-connect-to-github-with-vs-code --> sudo apt install gnome-keyring
 * you can set keyring password
 
-tt
